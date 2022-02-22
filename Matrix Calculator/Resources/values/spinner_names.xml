@@ -1,0 +1,8 @@
+<resources>
+  <string name="matrix_prompt">Choose a Language</string>
+  <string-array name="matrix_array">
+    <item>Матрица A</item>
+    <item>Матрица B</item>
+    <item>Матрица C</item>
+  </string-array>
+</resources>
