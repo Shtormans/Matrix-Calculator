@@ -244,3 +244,4 @@ F:\Xamarin\Matrix Calculator\Matrix Calculator\obj\Debug\90\stamp\_GenerateJavaS
 F:\Xamarin\Matrix Calculator\Matrix Calculator\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 F:\Xamarin\Matrix Calculator\Matrix Calculator\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
 F:\Xamarin\Matrix Calculator\Matrix Calculator\obj\Debug\90\res\values\spinner_names.xml
+F:\Xamarin\Matrix Calculator\Matrix Calculator\obj\Debug\90\res\layout\calculate_page.xml

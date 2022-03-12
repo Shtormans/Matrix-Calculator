@@ -1,1 +1,1 @@
-<resources><string name="matrix_prompt">Choose a Language</string><string-array name="matrix_array"><item>Матрица A</item><item>Матрица B</item><item>Матрица C</item></string-array></resources>
+<resources><string name="matrix_prompt">Choose a matrix</string><string-array name="matrix_array"><item>Матрица A</item><item>Матрица B</item><item>Матрица C</item><item>Матрица D</item><item>Матрица E</item><item>Матрица F</item></string-array></resources>

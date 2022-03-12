@@ -17,14 +17,18 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="80.0dp"
         android:layout_marginLeft="135.5dp"
-        android:id="@+id/matrixHeight" />
+        android:id="@+id/matrixHeight" 
+        android:hint="2"
+        android:imeOptions="actionNext" />
     <EditText
         android:inputType="number"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/matrixWidth"
         android:layout_marginLeft="179.0dp"
-        android:layout_marginTop="80.0dp" />
+        android:layout_marginTop="80.0dp" 
+        android:hint="3"
+        android:imeOptions="actionNext" />
     <TextView
         android:text="x"
         android:layout_width="wrap_content"
@@ -46,8 +50,25 @@
         android:layout_width="60.5dp"
         android:layout_height="31.5dp"
         android:id="@+id/createMatrixButton"
-        android:layout_marginLeft="250.5dp"
+        android:layout_marginLeft="231.0dp"
         android:layout_marginTop="92.0dp"
+        android:textSize="8dp" />
+    <Button
+        android:text="calculate"
+        android:layout_width="72.0dp"
+        android:layout_height="31.5dp"
+        android:id="@+id/calculateButton"
+        android:layout_marginLeft="291.0dp"
+        android:layout_marginTop="92.0dp"
+        android:textSize="8dp" />
+
+    <Button
+        android:text="ADD"
+        android:layout_width="87.5dp"
+        android:layout_height="47.5dp"
+        android:id="@+id/addMatrixButton"
+        android:layout_marginLeft="267.0dp"
+        android:layout_marginTop="197.0dp"
         android:textSize="8dp" />
 
 </RelativeLayout>
